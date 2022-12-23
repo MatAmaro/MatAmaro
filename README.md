@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**MatAmaro/MatAmaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href= "https://github.com/MatAmaro/github-readme-stats" style="width: 50%; height: 2rem;">
+    <img  style = "height: 10rem" src = "https://github-readme-stats.vercel.app/api?username=MatAmaro&show_icons=true&theme=dark"/>
+  </a>  
 
-Here are some ideas to get you started:
+  <a href= "https://github.com/MatAmaro?tab=repositories" >
+    <img  style = "height: 10rem;"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MatAmaro&layout=compact&theme=dark&hide_title=true)](https://github.com/MatAmaro/github-readme-stats"/>
+  </a>
+ 
+  :classical_building: Ciência da Computação - Universidade Federal do ABC
+  
+  :computer: Trainee Web Full Stack - Safra
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
